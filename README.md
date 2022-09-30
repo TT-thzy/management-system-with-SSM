@@ -1,5 +1,5 @@
 # management-system-with-SSM
-基于SSM搭建的后台管理系统
+基于SSM+spring security搭建的后台管理系统
 
 ## 系统描述
 简单后台管理系统，旅游网站后台。练手项目
